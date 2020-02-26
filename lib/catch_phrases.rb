@@ -11,3 +11,8 @@ end
 def link 
   puts "It's Dangerous To GO Alone! Take This."
 end
+
+def any_phrase(phrase)
+  puts phrase
+end
+  
